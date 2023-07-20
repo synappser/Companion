@@ -9,7 +9,7 @@ TrashEye now has a BetterTouchTool Touch Bar companion trash can widget that, be
 
 The TrashEye.bttpreset is a Touch Bar companion widget to TrashEye that comes as a preset Trash widget for BetterTouchTool.
 
-**[Download the widget](https://github.com/synappser/Companion/releases/download/v1.0/Companion.zip?raw=true)**
+**[Download the widget](https://github.com/synappser/Companion/releases/download/v1.0/Companion_v1.0.zip?raw=true)**
 
 ## How to Install
 
